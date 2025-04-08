@@ -167,8 +167,5 @@
 </div>
 
 
-## 感谢JetBrains提供的免费开源许可证支持
-<a href="https://www.jetbrains.com/?from=MediaCrawler">
-    <img src="https://www.jetbrains.com/company/brand/img/jetbrains_logo.png" width="100" alt="JetBrains" />
-</a>
+
 
